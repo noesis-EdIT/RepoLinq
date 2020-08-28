@@ -1,2 +1,2 @@
 # RepoLinq
-Programa con ejemplos básico para ilustrar las funciones del namespace Linq.
+Programa con ejemplos que explica las funciones del namespace Linq.
